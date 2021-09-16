@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to bottom right,#b1e3d7,#93c2b7,#79ada1,#578278,#365c53,#1e423a);
+    font-family: 'Squada One', cursive;
+    font-size: 18px;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#start_btn{
+    border-radius: 15px;
+    border-color: white;
+    border-width: 2px;
+    font-size: 16px;
+}
+#warning{
+    font-size: 20px;
+}
